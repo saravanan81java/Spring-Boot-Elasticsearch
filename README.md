@@ -1,7 +1,7 @@
 # Spring-Boot-Elasticsearch
-***Spring Boot + Elasticsearch :*** Build a Fast & Scalable Search API! 
+**Spring Boot + Elasticsearch :** *Build a Fast & Scalable Search API!* 
 
-***Project Implementation Steps:*** Building a Product Search API with Elasticsearch & Spring Boot
+**Project Implementation Steps:**  *Building a Product Search API with Elasticsearch & Spring Boot* 
 1. **Setting up Elasticsearch**
     - Installed and configured Elasticsearch locally for development and testing.
     - Set up Elasticsearch via Docker for containerized deployment and easy scalability.
